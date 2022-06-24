@@ -1,3 +1,9 @@
 [submodule "LoRa-Gateway"]
 	path = LoRa-Gateway
 	url = https://github.com/Bronomor/LoRa-Gateway.git
+[submodule "anjay-java-ttn-proxy"]
+	path = anjay-java-ttn-proxy
+	url = https://github.com/Arflayd/anjay-java-ttn-proxy.git
+[submodule "stm-lorawan-end-node"]
+	path = stm-lorawan-end-node
+	url = https://github.com/Arflayd/stm-lorawan-end-node.git
